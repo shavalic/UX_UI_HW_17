@@ -1,0 +1,109 @@
+
+.nav {
+  background-color: rgb(6, 5, 5);
+  width: 73%;
+  padding: 1%;
+  vertical-align: top;
+}
+
+  .topnav {
+    background-color: #333;
+    overflow: hidden;
+    width: 100%;
+    padding: 1%;
+  }
+
+  .logopic img{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+  }
+
+  .topnav li {
+    
+    margin-left: auto;
+    display: inline-block;
+    color: #312929;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navitems {
+    background-color: #5dded3;
+    display: inline-block;
+    float: right;
+    
+    text-align: center;
+    color: blueviolet;
+   
+    vertical-align: top;
+  }
+
+.li navitems {
+  float: right;
+}
+
+.heroImg {
+  height: 600px;
+  padding: 25px;
+}
+
+.aboutmepic {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.aboutmepic img {
+  width:50%;
+  position: center;
+  top: 10px;
+}
+
+.about {
+  width: 500px;
+  margin: 0 auto;
+  position: center;
+  text-align: center;
+  padding:1%;
+  padding-bottom: 5%;
+}
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  
+  padding: 1%;
+  width: 100%;
+}
+
+.footer li {
+    
+  margin-left: auto;
+  display: inline-block;
+  color: #312929;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footeritems {
+  background-color: #5dded3;
+  display: inline-block;
+  float: right;
+  
+  text-align: center;
+  color: blueviolet;
+ 
+  vertical-align: top;
+}
+
+.li footeritems {
+float: right;
+}
